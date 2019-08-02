@@ -27,6 +27,8 @@ contributers are most welcome .. but firstly read this [CONTRIBUTORS.md](https:/
 2. Want to increase the accuracy of the algorithm.
  
  
-Accuracy : presently it is approx ~45%
+## Accuracy : 
+
+presently it is approx ~45%
 
 --------------------------------------------------------------------------------
