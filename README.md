@@ -3,7 +3,7 @@
 This project is basicaly  a file encryption using AES standards in java language
 present accuracy of encryption security is approx~45% 
 
-# AES (Advanced Encryption Standards) Algorithm :
+## AES (Advanced Encryption Standards) Algorithm :
 
 This algorithm is basically a advance symmetric-key encryption recently adopted by US govt and is currently being used widely for the security features
 
@@ -17,11 +17,11 @@ This Kind of encryption are currently being used in many messaging/trading apps 
 
 --------------------------------------------------------------------------------
 
-# Contributions:
+## Contributions:
 This project is open for contributions
 contributers are most welcome .. but firstly read this [CONTRIBUTORS.md](https://github.com/priyansh19/Java_Encryption_Decryption_project/blob/master/CONTRIBUTION.md)
 
-# Issues Wanted to be Resolved:
+## Issues Wanted to be Resolved:
 
 1. Want to build the gui version of this algorithm.
 2. Want to increase the accuracy of the algorithm.
